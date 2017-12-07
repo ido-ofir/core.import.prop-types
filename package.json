@@ -1,7 +1,7 @@
 {
-  "name": "core.imports.prop-types",
+  "name": "core.import.prop-types",
   "version": "0.1.4",
-  "description": "frontend toolchain",
+  "description": "import prop-types",
   "main": "index.js",
   "dependencies": {
     "prop-types": "^15.5.8"
